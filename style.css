@@ -1,0 +1,16 @@
+nav{
+    display: flex;
+    align-items: center;
+    justify-content: space-between;
+    ul{
+        display: flex;
+        gap: 50px;
+        li{
+            cursor: pointer;
+            list-style: none;
+        }
+    }
+    button{
+        cursor: pointer;
+    }
+}
